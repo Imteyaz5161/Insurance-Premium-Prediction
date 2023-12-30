@@ -1,0 +1,11 @@
+Flask
+scikit-learn
+pandas
+numpy
+seaborn
+plotly
+xgboost
+matplotlib
+gunicorn
+gradio
+wincertstore==0.2
