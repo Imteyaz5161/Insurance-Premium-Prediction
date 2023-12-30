@@ -35,5 +35,4 @@ https://predict-insurance2.onrender.com/
 
 [Github Account](https://github.com)
 [vs code IDE](https://code.visualisation.com/)
-[HerokuAccount](https://heroku.com)
 
